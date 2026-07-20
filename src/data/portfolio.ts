@@ -13,7 +13,7 @@ export const profile = {
   github: "https://github.com/munisaidivith19-sketch",
   githubUsername: "munisaidivith19-sketch",
   resumeFile: "/resume.pdf",
-  photo: "/public/profile-photo.jpeg",
+  photo: "/public/profile-photo.jpg",
 };
 
 export const stats = [
@@ -49,19 +49,19 @@ export const certifications = [
     year: "2026",
     title: "Pre Security Learning Path",
     issuer: "TryHackMe",
-    image: "/public/tryhackme-pre-security.png.png",
+    image: "/public/certifications/tryhackme-pre-security.png",
   },
   {
     year: "2025",
     title: "Introduction to Cyber Security",
     issuer: "Cisco",
-    image: "/public/cisco-intro-cyber-security.png.png",
+    image: "/public/certifications/cisco-intro-cyber-security.png",
   },
   {
     year: "2025",
     title: "Cyber Security Certification",
     issuer: "Skill India — Tech Mahindra",
-    image: "/public/Skill India — Tech Mahindra.png",
+    image: "/public/certifications/Skill India — Tech Mahindra.png",
   },
   {
     year: "2026",
