@@ -49,19 +49,19 @@ export const certifications = [
     year: "2026",
     title: "Pre Security Learning Path",
     issuer: "TryHackMe",
-    image: "/public/certifications/tryhackme-pre-security.png",
+    image: "/tryhackme-pre-security.png",
   },
   {
     year: "2025",
     title: "Introduction to Cyber Security",
     issuer: "Cisco",
-    image: "/public/certifications/cisco-intro-cyber-security.png",
+    image: "/cisco-intro-cyber-security.png",
   },
   {
     year: "2025",
     title: "Cyber Security Certification",
     issuer: "Skill India — Tech Mahindra",
-    image: "/public/certifications/Skill India — Tech Mahindra.png",
+    image: "/Skill India — Tech Mahindra.png",
   },
   {
     year: "2026",
