@@ -13,7 +13,7 @@ export const profile = {
   github: "https://github.com/munisaidivith19-sketch",
   githubUsername: "munisaidivith19-sketch",
   resumeFile: "/resume.pdf",
-  photo: "/public/profile-photo.webp",
+  photo: "/profile-photo.webp",
 };
 
 export const stats = [
