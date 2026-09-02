@@ -41,13 +41,13 @@ export const stats = [
   },
   {
     label: "LINKEDIN FOLLOWERS",
-    value: 3000,
+    value: 3500,
     suffix: "+",
   },
   {
-    label: "CCNA Modules Completed",
-    value: 100,
-    suffix: "%",
+    label: "Internship Experience",
+    value: 6,
+    suffix: "Months",
   },
 ];
 
